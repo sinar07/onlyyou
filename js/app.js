@@ -11,7 +11,8 @@ const photos = [
   "./resources/cahaya1.jpg",
   "./resources/cahaya2.jpg",
   "./resources/cahaya3.jpg",
-  "./resources/cahaya5.jpg"
+  "./resources/cahaya5.jpg",
+  "./resources/cahaya7.jpg"
 ];
 
 // to load the gifs faster
@@ -30,7 +31,7 @@ no.addEventListener("click", () => {
     no.style.width = "30%";
     count++;
   } else if (count == 3) {
-    photo.src = "./resources/cahaya2.jpg";// gif credit: https://tenor.com/view/tkthao219-peach-goma-gif-25008901
+    photo.src = "./resources/cahaya7.jpg";// gif credit: https://tenor.com/view/tkthao219-peach-goma-gif-25008901
     text.innerHTML = "Tuh kan masih aja boong🥹";
     yes.style.height = "70%";
     yes.style.width = "70%";
