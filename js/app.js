@@ -9,10 +9,9 @@ const photos = [
   "./resources/cat-heart.gif",
   "./resources/cahayaku.jpg",
   "./resources/cahaya1.jpg",
-  "./resources/cahaya2.jpg",
+  "./resources/cahaya7.jpg",
   "./resources/cahaya3.jpg",
-  "./resources/cahaya5.jpg",
-  "./resources/cahaya7.jpg"
+  "./resources/cahaya5.jpg"
 ];
 
 // to load the gifs faster
